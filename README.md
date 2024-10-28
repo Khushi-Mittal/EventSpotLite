@@ -73,22 +73,13 @@ To run this project locally, follow these steps:
 3. **Event Details**: Click on an event to open a modal with more information.
 4. **Responsive Design**: Use on desktop or mobile devices for an optimized experience.
 
-## Demo
-
 ### Hosted Application URL
 
-[EventSpot Lite Live Demo](https://your-hosting-url.com)
-
-### Screenshots
-1. **Event Listing Page**
-   ![Event Listing](link-to-screenshot1.png)
-   
-2. **Event Details Modal**
-   ![Event Modal](link-to-screenshot2.png)
+[https://khushi-mittal.github.io/Khushi_Mittal_EventSpotLite/]
 
 ## Deployment
 
-The app is hosted on [Your Hosting Platform], and you can access it at the link above. Here are the deployment steps:
+The app is hosted on [https://khushi-mittal.github.io/Khushi_Mittal_EventSpotLite/], and you can access it at the link above. Here are the deployment steps:
 
 1. Push the code to your GitHub repository.
 2. Connect your repository to your hosting platform (e.g., Vercel, Netlify).
