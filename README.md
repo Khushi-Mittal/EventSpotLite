@@ -79,7 +79,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-The app is hosted on [https://khushi-mittal.github.io/Khushi_Mittal_EventSpotLite/], and you can access it at the link above. Here are the deployment steps:
+The app is hosted, you can access it at the link above. Here are the deployment steps:
 
 1. Push the code to your GitHub repository.
 2. Connect your repository to your hosting platform (e.g., Vercel, Netlify).
