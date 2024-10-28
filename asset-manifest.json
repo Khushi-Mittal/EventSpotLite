@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Khushi_Mittal_EventSpotLite/static/css/main.378ca995.css",
+    "main.js": "/Khushi_Mittal_EventSpotLite/static/js/main.4aaf702f.js",
+    "static/js/453.0ec06236.chunk.js": "/Khushi_Mittal_EventSpotLite/static/js/453.0ec06236.chunk.js",
+    "index.html": "/Khushi_Mittal_EventSpotLite/index.html",
+    "main.378ca995.css.map": "/Khushi_Mittal_EventSpotLite/static/css/main.378ca995.css.map",
+    "main.4aaf702f.js.map": "/Khushi_Mittal_EventSpotLite/static/js/main.4aaf702f.js.map",
+    "453.0ec06236.chunk.js.map": "/Khushi_Mittal_EventSpotLite/static/js/453.0ec06236.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378ca995.css",
+    "static/js/main.4aaf702f.js"
+  ]
+}
